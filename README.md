@@ -18,7 +18,7 @@ Code for the [Vision Skills Needed to Answer Visual uestions](https://www.ischoo
 - ```VqaQualityModel.py```: model for vision skill prediction.
 - ```word2vocab_{vizwiz/vqa}```: Ids of tokenized frequent words in the questions in the VizWiz/VQA dataset.
 
-```./ckpt/{vizwiz/vqa}/{cnt/col/txt}```: download [here](https://drive.google.com/file/d/14UX2YHMul_FNP0FS4bkrGbTlXD7lubep/view?usp=sharing)\
+```./ckpt/{vizwiz/vqa}/{cnt/col/txt}```: download [here](https://drive.google.com/file/d/14UX2YHMul_FNP0FS4bkrGbTlXD7lubep/view?usp=sharing)
 - checkpoints for the prediction of the counting/color recognition/text recognition skill for the VizWiz/VQA dataset, respectively.
 
 
