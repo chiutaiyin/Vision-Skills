@@ -1,0 +1,514 @@
+IMG,QSN,TXT,OBJ,COL,CNT,OTH
+COCO_train2014_000000435554.jpg,Which direction is the tennis player's hat facing?,0,5,1,0,1
+COCO_train2014_000000435686.jpg,What is the weather?,0,5,3,0,1
+COCO_train2014_000000435829.jpg,How many red train cars are in this image?,0,5,3,5,0
+COCO_train2014_000000436287.jpg,How many windows are visible?,1,4,0,4,0
+COCO_train2014_000000436515.jpg,Is this person drunk?,0,5,2,0,0
+COCO_train2014_000000436981.jpg,What are the letters on the bus?,4,4,1,0,0
+COCO_train2014_000000437102.jpg,How many books are red?,0,5,4,4,0
+COCO_train2014_000000437139.jpg,How many people can be seen?,0,5,0,5,0
+COCO_train2014_000000437300.jpg,What type of sink is this?,1,5,1,0,0
+COCO_train2014_000000043774.jpg,How many plates in this stack?,0,5,1,3,0
+COCO_train2014_000000043774.jpg,What is written on the plate?,4,4,1,1,0
+COCO_train2014_000000437900.jpg,How many sheep are there?,0,5,0,4,0
+COCO_train2014_000000437949.jpg,How many motorcycle do you see?,0,5,0,4,1
+COCO_train2014_000000438053.jpg,What kind of board is the man riding?,0,5,0,0,0
+COCO_train2014_000000438053.jpg,Was this picture taken recently?,0,4,2,0,1
+COCO_train2014_000000438479.jpg,How many giraffes are in the picture?,0,4,1,3,1
+COCO_train2014_000000438594.jpg,Are all the vegetables green?,0,4,5,0,0
+COCO_train2014_000000438671.jpg,What sits on the left hand side of the bowl?,1,5,0,0,0
+COCO_train2014_000000438701.jpg,Who will finish eating first?,0,5,1,1,0
+COCO_train2014_000000043876.jpg,What animal is hanging from the keychain?,0,5,2,0,0
+COCO_train2014_000000438932.jpg,Where is the plant?,0,5,1,0,0
+COCO_train2014_000000439003.jpg,What color is the pan?,0,5,5,0,0
+COCO_train2014_000000439107.jpg,What is the sky?,0,5,3,0,0
+COCO_train2014_000000439251.jpg,What is the animal wearing on its head?,1,5,0,0,0
+COCO_train2014_000000439506.jpg,Does the girl dye her hair?,0,5,2,0,0
+COCO_train2014_000000439506.jpg,What color is the boy's vest?,0,5,4,0,0
+COCO_train2014_000000439550.jpg,Is he depressed?,0,5,4,0,1
+COCO_train2014_000000439576.jpg,Is the woman going to eat it all?,0,5,1,2,1
+COCO_train2014_000000439615.jpg,What is the color of the clouds?,0,3,5,0,0
+COCO_train2014_000000439758.jpg,How many tops of bottles can you see?,0,3,2,0,0
+COCO_train2014_000000439926.jpg,What team is the player in white on?,1,5,2,0,1
+COCO_train2014_000000439930.jpg,What time does the clock show?,3,5,0,3,0
+COCO_train2014_000000439939.jpg,Does the skis match the skiers jackets?,0,3,4,0,0
+COCO_train2014_000000439995.jpg,Is the microwave on?,2,5,1,0,0
+COCO_train2014_000000440107.jpg,Is this boat moving down the river?,0,5,0,0,0
+COCO_train2014_000000440147.jpg,How many people would be on this boat?,0,4,0,5,0
+COCO_train2014_000000044017.jpg,How many yellow helmets is there?,0,4,3,4,0
+COCO_train2014_000000440285.jpg,What kind of cake is that?,0,5,3,0,0
+COCO_train2014_000000440340.jpg,Why is the girl holding an umbrella?,0,4,0,0,2
+COCO_train2014_000000440689.jpg,What kind of bike is it?,0,5,2,0,0
+COCO_train2014_000000440689.jpg,What is on the front of the bike?,0,5,1,0,0
+COCO_train2014_000000440874.jpg,Are the older or younger animals darker?,0,5,2,0,1
+COCO_train2014_000000441034.jpg,IS the train moving?,0,5,1,0,1
+COCO_train2014_000000441105.jpg,Do the skis seem short?,0,4,1,1,0
+COCO_train2014_000000441361.jpg,Who is on the bench?,0,4,0,2,0
+COCO_train2014_000000441387.jpg,Is there a light on the train?,0,5,1,0,0
+COCO_train2014_000000441412.jpg,What is the lady holding in her hand?,0,5,0,0,0
+COCO_train2014_000000441425.jpg,Are the Macbooks?,2,5,1,0,0
+COCO_train2014_000000441493.jpg,Are there any blinds on the windows?,0,4,2,2,0
+COCO_train2014_000000441544.jpg,Is the man reading?,0,5,1,1,0
+COCO_train2014_000000441608.jpg,Does the grass need to be cut?,0,4,2,0,0
+COCO_train2014_000000442132.jpg,What number is on the front of the train?,2,4,0,3,0
+COCO_train2014_000000442178.jpg,Are these animals free to roam?,0,5,1,0,0
+COCO_train2014_000000442332.jpg,What do the signs say?,1,5,1,1,0
+COCO_train2014_000000442450.jpg,"Has the gray tree, upper left, lost limbs?",0,5,2,1,0
+COCO_train2014_000000442654.jpg,What is the color of the building?,1,3,4,0,0
+COCO_train2014_000000442670.jpg,What animals are these?,0,4,2,2,0
+COCO_train2014_000000442886.jpg,Is there anything hiding in the tasty drink?,0,5,0,0,0
+COCO_train2014_000000044291.jpg,How many umbrellas in the photo?,0,5,0,4,0
+COCO_train2014_000000442911.jpg,What time does it say on the clock?,4,4,0,1,0
+COCO_train2014_000000442961.jpg,What is the person holding?,0,5,0,0,0
+COCO_train2014_000000442980.jpg,Are these zebras living in the wild?,0,5,1,0,0
+COCO_train2014_000000443086.jpg,Can you tell what time of day it is by the shadow?,0,4,2,0,0
+COCO_train2014_000000044337.jpg,Is the stove new?,0,5,3,0,0
+COCO_train2014_000000443373.jpg,How many cups are in the picture?,1,3,0,4,0
+COCO_train2014_000000443497.jpg,Why is the skier pointed this way on the mountain?,0,5,3,0,0
+COCO_train2014_000000443522.jpg,What color is the toast?,1,5,4,0,0
+COCO_train2014_000000044358.jpg,What is the man doing?,0,5,3,0,0
+COCO_train2014_000000443607.jpg,What is the man sitting on?,0,5,0,0,0
+COCO_train2014_000000443823.jpg,Does it appear to be sunrise or sunset?,0,5,2,0,0
+COCO_train2014_000000443909.jpg,How many police are there?,0,3,2,2,1
+COCO_train2014_000000443909.jpg,What animal is on the flatbed?,0,5,1,0,0
+COCO_train2014_000000444173.jpg,What type of filter is used in this picture?,1,4,3,0,0
+COCO_train2014_000000444210.jpg,Could passenger be boarding?,0,5,3,0,0
+COCO_train2014_000000444226.jpg,Does the little horse want his freedom?,0,4,0,0,1
+COCO_train2014_000000444235.jpg,Are there passengers on the bus?,1,5,0,0,0
+COCO_train2014_000000444337.jpg,Can these items move?,0,5,1,0,1
+COCO_train2014_000000444404.jpg,What is in the sky?,0,5,2,0,0
+COCO_train2014_000000444409.jpg,What beverage is on the table?,2,4,1,0,0
+COCO_train2014_000000444409.jpg,What is the food and drinks sitting next to?,0,5,2,1,0
+COCO_train2014_000000444409.jpg,What is in the wine glass?,0,5,1,0,0
+COCO_train2014_000000444487.jpg,Do you see clouds in the sky?,0,5,0,0,0
+COCO_train2014_000000044454.jpg,Is the window open?,0,5,1,0,0
+COCO_train2014_000000444794.jpg,What color is the woman's shirt?,0,3,4,0,0
+COCO_train2014_000000444794.jpg,What is the woman doing to the bowl?,1,5,1,0,0
+COCO_train2014_000000444872.jpg,Is the bird going after a fish?,0,5,0,0,1
+COCO_train2014_000000444880.jpg,Why style of architecture is in the photo?,1,5,2,0,0
+COCO_train2014_000000444983.jpg,Is this train traveling under a cloud?,0,4,1,0,0
+COCO_train2014_000000445099.jpg,About how old is this toddler?,0,4,1,4,1
+COCO_train2014_000000445338.jpg,How many bowls are on the counter?,0,5,0,5,0
+COCO_train2014_000000445388.jpg,Are the buses made by the same company?,3,5,1,0,0
+COCO_train2014_000000445443.jpg,Who is flying the princess kite?,0,5,3,0,0
+COCO_train2014_000000445515.jpg,Are there any bricks with more than four sides?,0,5,0,4,0
+COCO_train2014_000000445515.jpg,How much longer until midnight?,2,3,1,3,0
+COCO_train2014_000000445592.jpg,How many pillows in the picture?,1,4,0,5,0
+COCO_train2014_000000445745.jpg,Was the apple sliced or chopped?,1,5,1,0,0
+COCO_train2014_000000446069.jpg,How many elephants are in this picture?,0,4,0,4,0
+COCO_train2014_000000446131.jpg,What is the name of the tower?,2,5,2,0,0
+COCO_train2014_000000446234.jpg,How is the man's hair styled?,0,5,1,0,0
+COCO_train2014_000000446271.jpg,Are all of the people seated?,0,5,0,0,0
+COCO_train2014_000000446471.jpg,How many bears are there?,1,4,0,4,0
+COCO_train2014_000000446628.jpg,What are the dark stripes on the ground?,0,5,1,0,0
+COCO_train2014_000000446694.jpg,What is in the cone?,0,5,1,0,0
+COCO_train2014_000000447037.jpg,How many people are wearing glasses?,0,5,0,4,0
+COCO_train2014_000000447108.jpg,Why is the horse black?,0,3,4,0,1
+COCO_train2014_000000447112.jpg,Is the child bald?,0,5,1,0,0
+COCO_train2014_000000447112.jpg,What color are the babies eyes?,0,3,5,0,0
+COCO_train2014_000000447112.jpg,What is hugging the bear?,0,4,2,0,0
+COCO_train2014_000000447228.jpg,Is the boat moving?,0,4,1,0,1
+COCO_train2014_000000447243.jpg,How many people are in the photo?,0,4,0,5,0
+COCO_train2014_000000447689.jpg,Does the man have sun in his eyes?,0,5,1,0,0
+COCO_train2014_000000044782.jpg,What does the bottom sign say on the sign post?,3,4,2,0,0
+COCO_train2014_000000447840.jpg,What color are the walls?,0,3,4,0,0
+COCO_train2014_000000447865.jpg,Do you see safety scissors?,0,4,1,1,0
+COCO_train2014_000000448077.jpg,What is in the bottle?,1,5,2,0,0
+COCO_train2014_000000044818.jpg,Is this a new Mac?,1,5,1,0,0
+COCO_train2014_000000448402.jpg,Which fruits are in the salad?,0,3,1,1,0
+COCO_train2014_000000448439.jpg,What city is on the man's hat?,3,5,0,0,0
+COCO_train2014_000000448560.jpg,How is the ground like?,0,4,4,0,0
+COCO_train2014_000000448648.jpg,How many cars are there?,0,5,0,5,0
+COCO_train2014_000000448702.jpg,What does the sign say?,2,5,2,0,0
+COCO_train2014_000000448826.jpg,What is the man in yellow doing with his left hand?,0,5,3,0,0
+COCO_train2014_000000448887.jpg,How many trains cars are on the train?,0,5,0,5,0
+COCO_train2014_000000004490.jpg,Is the man wearing shades?,0,4,3,0,0
+COCO_train2014_000000449082.jpg,Is this sign high up in the air?,4,5,1,0,0
+COCO_train2014_000000449158.jpg,Are there children in the park?,0,5,0,0,0
+COCO_train2014_000000449195.jpg,Does the bear look angry?,0,5,0,0,1
+COCO_train2014_000000449529.jpg,What is the color of the buildings wall?,0,4,5,0,0
+COCO_train2014_000000450050.jpg,What number is on the bus?,4,3,0,4,0
+COCO_train2014_000000450052.jpg,What time is on the clock?,3,4,0,1,1
+COCO_train2014_000000450066.jpg,What time is on the clock?,1,5,0,2,0
+COCO_train2014_000000450111.jpg,How long until this pizza is done?,2,4,1,1,1
+COCO_train2014_000000450117.jpg,Is this an adult Elephant?,0,5,1,0,0
+COCO_train2014_000000450219.jpg,Why wear head protection?,0,5,3,0,0
+COCO_train2014_000000450309.jpg,What is the giraffe doing?,0,5,2,0,0
+COCO_train2014_000000450434.jpg,What brand of doughnut shop is this?,3,4,2,0,0
+COCO_train2014_000000450526.jpg,Can many people get into this vehicle?,0,5,2,1,1
+COCO_train2014_000000450528.jpg,What time of day is this event taking place?,0,3,4,0,1
+COCO_train2014_000000450700.jpg,Are all the people teenagers?,0,5,1,0,0
+COCO_train2014_000000450833.jpg,What is one player wearing knee pads?,0,4,1,3,0
+COCO_train2014_000000450940.jpg,Is the woman safe?,0,5,2,0,0
+COCO_train2014_000000451016.jpg,What is this man's profession?,0,5,0,0,0
+COCO_train2014_000000451490.jpg,Are these dairy cows?,0,5,2,0,0
+COCO_train2014_000000451720.jpg,What is on the bed?,0,5,1,0,0
+COCO_train2014_000000451826.jpg,How many different colors are on the musical instrument?,0,5,4,1,0
+COCO_train2014_000000452087.jpg,What does the trash on the right include?,1,5,0,0,0
+COCO_train2014_000000452167.jpg,Is this person racing?,0,5,1,0,0
+COCO_train2014_000000452302.jpg,What animal is the boy riding?,0,5,2,0,0
+COCO_train2014_000000452302.jpg,Where is the boy wearing a red cap?,1,5,1,1,0
+COCO_train2014_000000452465.jpg,Where are the boats?,1,4,2,0,0
+COCO_train2014_000000452706.jpg,Does the airplane look level?,0,4,2,0,0
+COCO_train2014_000000452831.jpg,What number is the train?,2,4,0,5,0
+COCO_train2014_000000452912.jpg,How many men are there?,1,3,0,5,0
+COCO_train2014_000000045306.jpg,What is the elephant holding in its trunk?,1,5,1,0,0
+COCO_train2014_000000453299.jpg,Is the girl wearing shoes?,0,4,1,2,1
+COCO_train2014_000000453357.jpg,Is this handicap friendly?,1,5,1,0,0
+COCO_train2014_000000453397.jpg,Can you describe the artwork on the wall?,0,5,1,0,0
+COCO_train2014_000000453552.jpg,What kind of celebration is this?,0,5,3,0,0
+COCO_train2014_000000453567.jpg,What is the color of the water?,0,3,5,0,0
+COCO_train2014_000000453586.jpg,Is the water cold?,0,5,1,1,1
+COCO_train2014_000000453629.jpg,Is that a larger than normal serving?,0,4,1,2,0
+COCO_train2014_000000453646.jpg,Are these zebra standing on a sidewalk?,0,5,1,0,0
+COCO_train2014_000000453734.jpg,Whose flag is that man wearing?,0,5,3,0,0
+COCO_train2014_000000454000.jpg,How many people are on the platform?,0,5,1,4,0
+COCO_train2014_000000454078.jpg,What type of vehicle is this?,0,5,0,0,0
+COCO_train2014_000000454174.jpg,What is the name of the equipment on this truck?,2,3,1,0,0
+COCO_train2014_000000454219.jpg,How many people are in the photo?,0,3,0,5,0
+COCO_train2014_000000454255.jpg,How many open umbrellas?,0,4,0,4,0
+COCO_train2014_000000454477.jpg,How many of these possible could be drinking the wine?,0,3,1,4,0
+COCO_train2014_000000004546.jpg,What is the climate like in this area?,0,5,1,1,0
+COCO_train2014_000000454636.jpg,Do we look like we are from the same family?,1,4,1,0,0
+COCO_train2014_000000454680.jpg,How many orange signs are on the street?,1,3,2,3,0
+COCO_train2014_000000454712.jpg,Would Dr Seuss like that hat?,0,4,2,1,0
+COCO_train2014_000000454827.jpg,What does the sign mean?,4,5,1,0,0
+COCO_train2014_000000454857.jpg,How many people are there?,0,5,0,5,0
+COCO_train2014_000000045494.jpg,What's the number on the truck?,4,4,1,1,0
+COCO_train2014_000000455252.jpg,What does this kite look like?,0,5,4,0,0
+COCO_train2014_000000455342.jpg,Was this photographed with a wide-angle lens?,0,4,0,0,2
+COCO_train2014_000000045537.jpg,Is anyone able to sit in this chair?,0,5,1,0,0
+COCO_train2014_000000455459.jpg,What are the benches facing?,0,5,1,0,0
+COCO_train2014_000000455473.jpg,Is it safe for the child to be standing there?,0,5,0,0,1
+COCO_train2014_000000455496.jpg,What animal is on this person's hat?,0,5,1,0,0
+COCO_train2014_000000455632.jpg,What is this room probably used for?,0,5,0,0,0
+COCO_train2014_000000455658.jpg,Is this a new photo?,0,4,1,0,0
+COCO_train2014_000000455658.jpg,How many horses are there?,0,4,0,4,0
+COCO_train2014_000000455696.jpg,Is there anyone inside the plane?,0,5,1,0,0
+COCO_train2014_000000455696.jpg,Is this man flying a jet?,0,5,0,0,0
+COCO_train2014_000000455865.jpg,Can you see onions?,0,5,3,0,0
+COCO_train2014_000000455865.jpg,Is there enough for 4?,0,4,3,0,0
+COCO_train2014_000000455875.jpg,How many umbrellas are there?,1,3,0,3,1
+COCO_train2014_000000455934.jpg,Is this a semi truck?,1,5,1,0,0
+COCO_train2014_000000456042.jpg,How many people in this photo?,1,3,0,4,0
+COCO_train2014_000000456217.jpg,How many shades of pink are visible in the woman's dress?,0,5,5,3,0
+COCO_train2014_000000456351.jpg,Where the stop sign is fitted?,5,3,1,0,0
+COCO_train2014_000000456545.jpg,Is this picture in the United States?,1,5,0,0,0
+COCO_train2014_000000456629.jpg,Is this a cargo plane?,0,5,1,0,0
+COCO_train2014_000000456819.jpg,Is the glass half full?,0,5,2,0,0
+COCO_train2014_000000456936.jpg,What is the woman holding?,0,5,1,0,0
+COCO_train2014_000000457233.jpg,"What are the brown, black and white animals known as?",0,5,2,0,0
+COCO_train2014_000000457401.jpg,Is this a kitchen cabinet?,0,4,0,0,0
+COCO_train2014_000000457514.jpg,Is the person riding on pavement?,0,5,1,0,0
+COCO_train2014_000000457586.jpg,Is this a well styled bathroom?,0,4,1,0,1
+COCO_train2014_000000457824.jpg,What color are the trees?,2,3,4,0,0
+COCO_train2014_000000045792.jpg,What style of image is this?,1,4,2,0,1
+COCO_train2014_000000457962.jpg,Is the man feeding the child?,0,5,1,0,1
+COCO_train2014_000000457976.jpg,What color are the cows?,0,5,5,0,0
+COCO_train2014_000000458016.jpg,What are the numbers on the train?,4,5,1,0,0
+COCO_train2014_000000458089.jpg,What type of shoes is the man wearing?,0,4,0,0,1
+COCO_train2014_000000458132.jpg,Why is this bear in a tree?,0,5,1,0,1
+COCO_train2014_000000458184.jpg,What is the orange food called?,1,5,3,0,0
+COCO_train2014_000000458232.jpg,What shape is painted on the floor?,0,5,2,0,0
+COCO_train2014_000000045829.jpg,Who is next to Mario?,1,5,0,0,0
+COCO_train2014_000000458336.jpg,Are the waves small?,0,4,3,0,0
+COCO_train2014_000000458355.jpg,What is the man doing?,0,5,2,0,0
+COCO_train2014_000000458355.jpg,What color hat is the man in the white t-shirt wearing?,0,2,4,0,0
+COCO_train2014_000000045836.jpg,What animal is on the blanket?,0,5,1,0,0
+COCO_train2014_000000458568.jpg,What time is it?,1,4,1,3,0
+COCO_train2014_000000458586.jpg,Do the bears look mean?,0,5,1,0,0
+COCO_train2014_000000458633.jpg,Is this an ox?,0,5,1,0,0
+COCO_train2014_000000458785.jpg,What time does the clock read?,1,4,2,1,2
+COCO_train2014_000000458856.jpg,Was the building on the right built before 1900?,0,5,1,0,3
+COCO_train2014_000000459147.jpg,Are the windows open?,0,5,1,0,0
+COCO_train2014_000000459248.jpg,How many sets of tracks?,0,4,1,4,0
+COCO_train2014_000000459401.jpg,What number of spots on the giraffe are orange?,1,4,3,5,0
+COCO_train2014_000000459712.jpg,What animal is on the leash?,0,5,0,0,0
+COCO_train2014_000000459765.jpg,What is green in the picture?,0,4,3,0,0
+COCO_train2014_000000460055.jpg,Is it winter time?,0,4,1,0,0
+COCO_train2014_000000460202.jpg,Which animal is on top of which animal?,1,5,0,0,0
+COCO_train2014_000000460408.jpg,Is the food pyramid properly represented here?,3,5,0,1,0
+COCO_train2014_000000460415.jpg,Is it raining?,0,5,2,0,0
+COCO_train2014_000000460459.jpg,Is the man falling?,0,4,1,0,0
+COCO_train2014_000000460643.jpg,How many packages are wrapped in brown paper?,0,5,4,4,0
+COCO_train2014_000000460665.jpg,Can you count the windows visible in the background?,0,5,1,3,0
+COCO_train2014_000000460694.jpg,Was a beverage served?,0,3,0,0,0
+COCO_train2014_000000460830.jpg,How many topping slices do you see?,2,4,0,4,0
+COCO_train2014_000000461114.jpg,What number is on this cake?,4,3,0,0,0
+COCO_train2014_000000461114.jpg,Is the boy sad?,0,5,1,0,0
+COCO_train2014_000000461208.jpg,How men are in the photo?,0,5,1,4,0
+COCO_train2014_000000461211.jpg,How many people are seated in this picture?,0,4,1,4,0
+COCO_train2014_000000461211.jpg,Are there more men than women in this photo?,0,5,1,3,0
+COCO_train2014_000000461252.jpg,Has the meal begun?,0,5,1,0,0
+COCO_train2014_000000461498.jpg,What kind of bird is this?,0,5,1,0,0
+COCO_train2014_000000461535.jpg,What is the man about to walk past?,0,5,2,0,0
+COCO_train2014_000000461744.jpg,Do these animals appear related?,0,5,1,0,0
+COCO_train2014_000000462040.jpg,What are the people doing?,0,5,0,1,0
+COCO_train2014_000000462114.jpg,Is the person going up or coming down?,0,4,2,0,0
+COCO_train2014_000000462131.jpg,How many stalls are there?,0,5,0,5,0
+COCO_train2014_000000462164.jpg,How many teddy bears in the picture?,1,5,1,3,0
+COCO_train2014_000000462186.jpg,Is this person attempting a stunt or are they falling?,0,5,0,0,1
+COCO_train2014_000000462186.jpg,What is the person wearing on their feet?,1,4,0,0,0
+COCO_train2014_000000462401.jpg,Could the day be a bit cool?,0,4,3,0,1
+COCO_train2014_000000046242.jpg,How many trees are there?,0,4,2,3,0
+COCO_train2014_000000462599.jpg,What are the ribbons for?,0,5,1,0,1
+COCO_train2014_000000462811.jpg,What type of cake is this?,0,4,3,0,0
+COCO_train2014_000000462847.jpg,Who is doing the dishes?,0,5,1,0,0
+COCO_train2014_000000462872.jpg,Are the train windows open?,1,4,1,0,0
+COCO_train2014_000000462974.jpg,How many flowers are in this picture?,0,5,0,5,0
+COCO_train2014_000000463019.jpg,What is the bench made of?,0,5,2,0,0
+COCO_train2014_000000463108.jpg,Is this a train station?,1,5,3,0,0
+COCO_train2014_000000046322.jpg,Is there a woman in the photo?,2,3,2,0,0
+COCO_train2014_000000463482.jpg,Is he in the water?,0,5,1,0,0
+COCO_train2014_000000463482.jpg,How many people are standing on surfboards?,0,3,1,3,0
+COCO_train2014_000000463581.jpg,What number is shown on the tail and on the side?,3,5,1,2,0
+COCO_train2014_000000463589.jpg,Is this ready to eat?,0,5,4,0,0
+COCO_train2014_000000463616.jpg,Why is the sink almost over the tub?,0,5,1,0,0
+COCO_train2014_000000463665.jpg,What kind of bird are these?,0,5,3,0,0
+COCO_train2014_000000463823.jpg,Could that sign be considered a historical landmark?,4,5,1,0,0
+COCO_train2014_000000464744.jpg,What time is it in the photo?,3,3,1,0,0
+COCO_train2014_000000464854.jpg,How many people are seated?,0,2,0,5,0
+COCO_train2014_000000464937.jpg,Are the fruits white?,1,3,3,0,0
+COCO_train2014_000000465060.jpg,What time does the clock show?,4,4,0,2,0
+COCO_train2014_000000465169.jpg,Where is the man wearing sunglasses?,0,5,1,0,0
+COCO_train2014_000000465198.jpg,What is the color of the player short pants?,0,4,5,0,0
+COCO_train2014_000000465213.jpg,How many lamps are on the counter ??,0,3,1,3,0
+COCO_train2014_000000046524.jpg,Is the woman wearing jewelry?,1,5,0,0,0
+COCO_train2014_000000465266.jpg,Is this how the stop sign was originally intended to look?,1,5,2,0,1
+COCO_train2014_000000465351.jpg,What sport is the boy playing?,0,5,1,0,0
+COCO_train2014_000000465467.jpg,Why isn't the grass green in this picture?,0,4,5,0,0
+COCO_train2014_000000465468.jpg,What number is on the black shirt?,2,4,0,4,0
+COCO_train2014_000000465529.jpg,Is this person smoking?,1,5,2,0,0
+COCO_train2014_000000465677.jpg,What are the people viewing in the picture?,0,5,1,0,0
+COCO_train2014_000000466070.jpg,Are there high mountains in this photo?,0,5,0,0,0
+COCO_train2014_000000466352.jpg,Are they fully grown?,0,5,0,0,1
+COCO_train2014_000000466395.jpg,Do you think he will land this trick?,0,5,2,0,0
+COCO_train2014_000000466406.jpg,What brand is this equipment?,3,4,1,0,0
+COCO_train2014_000000466580.jpg,Is there a shadow in the scene?,1,4,3,0,0
+COCO_train2014_000000466694.jpg,How many people are wearing plaid shirts?,0,4,3,5,0
+COCO_train2014_000000466713.jpg,What is the color of the sky?,0,4,4,0,0
+COCO_train2014_000000466714.jpg,Is this an energy-efficient appliance?,1,5,1,0,0
+COCO_train2014_000000466730.jpg,How many people have bikes?,1,4,1,4,0
+COCO_train2014_000000466730.jpg,What brand of bike do these men have?,4,5,0,0,0
+COCO_train2014_000000466730.jpg,Are all of the tires facing the same way?,1,4,2,1,0
+COCO_train2014_000000466845.jpg,Are the animals or people caged in?,0,5,1,0,1
+COCO_train2014_000000467050.jpg,How many bricks is this wall made out of?,0,4,0,5,0
+COCO_train2014_000000467256.jpg,What does the sign say?,3,1,0,0,0
+COCO_train2014_000000467431.jpg,Where is the man at?,0,5,1,0,0
+COCO_train2014_000000467431.jpg,Which wood is used for floors?,0,5,3,0,0
+COCO_train2014_000000467645.jpg,Is the banana in the scene going bad?,0,5,3,0,0
+COCO_train2014_000000467763.jpg,What continent is the picture taken in?,3,5,1,0,0
+COCO_train2014_000000467799.jpg,What is the person with the number 10 on his back doing?,1,5,3,0,0
+COCO_train2014_000000467939.jpg,How many sandwich pieces are there?,0,3,1,5,0
+COCO_train2014_000000468100.jpg,What is the idea of a sign that says that?,2,5,0,0,0
+COCO_train2014_000000468529.jpg,What color are the lamps?,1,5,5,0,0
+COCO_train2014_000000468538.jpg,How much toothpaste is on this toothbrush?,2,5,1,2,1
+COCO_train2014_000000468619.jpg,What are the flowers sitting in?,0,5,0,0,0
+COCO_train2014_000000468648.jpg,Is this person a professional surf boarder?,0,5,2,0,1
+COCO_train2014_000000468818.jpg,Is the man on the right holding the frisbee or actively passing it to the man on the left?,0,5,1,0,0
+COCO_train2014_000000468932.jpg,Is this person likely very experienced skiing?,2,4,0,0,0
+COCO_train2014_000000469170.jpg,How many men are here?,1,3,0,3,1
+COCO_train2014_000000469274.jpg,What is in the bag?,1,5,1,0,0
+COCO_train2014_000000469625.jpg,What is the person doing?,0,5,1,0,0
+COCO_train2014_000000469639.jpg,How many boats do you see?,0,5,0,5,0
+COCO_train2014_000000469658.jpg,Is this in America?,1,5,2,0,0
+COCO_train2014_000000469658.jpg,What kind of service truck is this?,3,4,0,0,0
+COCO_train2014_000000469873.jpg,How many rolls of toilet paper are there?,1,4,2,2,0
+COCO_train2014_000000469973.jpg,How old is the boy in this picture?,0,4,1,1,0
+COCO_train2014_000000470028.jpg,Is the woman barefoot?,1,5,0,0,1
+COCO_train2014_000000470053.jpg,What has been used to mark the ground?,0,5,1,0,0
+COCO_train2014_000000004702.jpg,What is on the man's head?,0,5,2,0,0
+COCO_train2014_000000470411.jpg,Is this animal at all related to a horse?,0,5,2,0,0
+COCO_train2014_000000470472.jpg,What is on the man's face?,0,5,2,0,0
+COCO_train2014_000000470551.jpg,How many players are in the dugout?,0,3,0,3,0
+COCO_train2014_000000470798.jpg,Is this dog's tail wagging?,0,5,2,0,0
+COCO_train2014_000000470951.jpg,What color scheme was this photo taken in?,0,5,4,0,0
+COCO_train2014_000000471020.jpg,What color is the stop light?,0,5,5,1,0
+COCO_train2014_000000471098.jpg,Does the man in the picture give a clue to the sport he is playing?,0,5,1,0,0
+COCO_train2014_000000471182.jpg,Is this a pet store?,0,5,1,0,0
+COCO_train2014_000000471245.jpg,Is there a glass of orange juice?,0,5,1,0,0
+COCO_train2014_000000047125.jpg,How many birds are in the picture?,0,5,0,5,0
+COCO_train2014_000000471261.jpg,Is she serving the ball?,0,4,2,0,0
+COCO_train2014_000000471507.jpg,How many sets of traffic lights can be seen?,0,4,0,5,0
+COCO_train2014_000000471514.jpg,Is this person on the snowboard  a hipster?,0,5,1,0,0
+COCO_train2014_000000047172.jpg,What is the name of the plant in the foreground of the picture?,0,4,0,0,0
+COCO_train2014_000000472027.jpg,Why is the man in black there?,0,5,3,0,0
+COCO_train2014_000000472444.jpg,Is it sunny out?,1,2,2,1,0
+COCO_train2014_000000472553.jpg,Is the man young?,0,5,1,0,0
+COCO_train2014_000000472607.jpg,Is the skater good at the sport?,0,5,2,0,0
+COCO_train2014_000000472700.jpg,Are these stuffed animals moldy?,0,5,2,0,0
+COCO_train2014_000000472841.jpg,Do the fence planks go horizontally or vertically?,0,5,2,1,0
+COCO_train2014_000000472861.jpg,The color of the stove's smoke vent is what?,0,4,4,0,0
+COCO_train2014_000000473070.jpg,Is this street in the United States?,1,5,1,0,0
+COCO_train2014_000000473102.jpg,What is the woman on the right wearing on her head?,0,5,1,0,0
+COCO_train2014_000000473254.jpg,What color are the plates?,0,4,4,0,0
+COCO_train2014_000000473326.jpg,What is the person below wearing?,0,5,0,0,0
+COCO_train2014_000000473516.jpg,How many stools are under the table?,0,4,1,3,0
+COCO_train2014_000000473516.jpg,Would one call this style of furnishing a bit minimal?,0,5,0,1,2
+COCO_train2014_000000473595.jpg,Did this suitcase recently fly?,0,3,1,0,0
+COCO_train2014_000000473726.jpg,What time does the clock say?,3,4,0,4,0
+COCO_train2014_000000473762.jpg,What does this man's shirt say?,2,4,1,0,0
+COCO_train2014_000000473776.jpg,Will it hurt the person if he falls?,0,5,0,0,1
+COCO_train2014_000000473993.jpg,Is this a professional snowboarder?,0,5,1,0,1
+COCO_train2014_000000474049.jpg,Is there more than one lamp on this workstation?,1,5,0,2,0
+COCO_train2014_000000474105.jpg,What color is the blanket on the bed?,0,4,5,0,0
+COCO_train2014_000000474453.jpg,Are these animals eating?,0,5,1,0,1
+COCO_train2014_000000474568.jpg,How many propellers on the plane?,0,5,0,3,0
+COCO_train2014_000000474785.jpg,Who is in the chair?,0,5,1,0,0
+COCO_train2014_000000474955.jpg,Is the person trying to go down a ski slope?,1,4,2,0,0
+COCO_train2014_000000474955.jpg,Is there enough snow to ski?,0,5,1,0,0
+COCO_train2014_000000475158.jpg,How many faces can be seen?,1,4,0,4,0
+COCO_train2014_000000475336.jpg,Where is a butter knife?,0,5,1,0,0
+COCO_train2014_000000475441.jpg,What brand is this motorcycle?,4,5,1,0,0
+COCO_train2014_000000475443.jpg,Is the person on the left going surfing or leaving the beach?,1,5,1,0,0
+COCO_train2014_000000475571.jpg,What sport is he playing?,1,5,0,0,0
+COCO_train2014_000000047617.jpg,Is this picture taken in the midwest?,1,4,1,0,2
+COCO_train2014_000000476380.jpg,Is the correct silverware in the picture needed to eat the pizza?,0,5,0,0,0
+COCO_train2014_000000476447.jpg,Is the person cold?,1,5,1,0,0
+COCO_train2014_000000476463.jpg,What is the woman wearing on her face?,0,5,1,0,0
+COCO_train2014_000000476463.jpg,Does she have a pixie haircut?,1,5,0,0,0
+COCO_train2014_000000476530.jpg,What is separating the cat from the outdoors?,0,5,1,1,0
+COCO_train2014_000000476607.jpg,Do any of the people have an outfit with no red in it?,0,5,4,1,0
+COCO_train2014_000000477031.jpg,Can you hang this bear?,0,5,0,0,0
+COCO_train2014_000000477331.jpg,Are all the women wearing goggles?,0,5,2,0,0
+COCO_train2014_000000047734.jpg,Do the people know each other?,1,5,0,0,0
+COCO_train2014_000000477471.jpg,Is this a horse race?,1,5,0,0,0
+COCO_train2014_000000477590.jpg,How many trains are on the track?,1,5,1,4,0
+COCO_train2014_000000047767.jpg,How many years has the pizzeria been in business?,4,4,0,2,0
+COCO_train2014_000000477782.jpg,Are there benches?,1,5,2,0,0
+COCO_train2014_000000477782.jpg,What are behind the boy?,0,5,3,0,0
+COCO_train2014_000000477782.jpg,How old is this boy?,1,4,1,2,1
+COCO_train2014_000000477807.jpg,How many people are in the crowd?,1,4,1,4,1
+COCO_train2014_000000478154.jpg,Is there a stop sign?,0,5,1,0,0
+COCO_train2014_000000478298.jpg,What is on the floor tiles?,0,5,3,0,0
+COCO_train2014_000000478726.jpg,Was a beverage served?,2,5,1,0,0
+COCO_train2014_000000478738.jpg,Is it ok to cross the street?,0,1,1,0,0
+COCO_train2014_000000478738.jpg,What is the average price of items for sale at the store?,2,4,0,3,0
+COCO_train2014_000000478802.jpg,Can you name the performer in the purple costume?,0,5,3,0,0
+COCO_train2014_000000478985.jpg,How many windows?,0,4,1,4,0
+COCO_train2014_000000479101.jpg,Is there water?,0,5,1,0,0
+COCO_train2014_000000479134.jpg,What animal is thirsty?,0,5,0,0,0
+COCO_train2014_000000479272.jpg,What brand does the logo on the girl's sleeve represent?,3,5,0,0,1
+COCO_train2014_000000479333.jpg,What is the man wearing?,0,5,3,0,0
+COCO_train2014_000000479372.jpg,Is he wearing a hat?,0,5,0,0,0
+COCO_train2014_000000479372.jpg,How tall are the poles?,1,5,1,1,1
+COCO_train2014_000000479372.jpg,What three numbers are on the building in the background?,3,4,0,4,0
+COCO_train2014_000000479372.jpg,How many windows are in the photo?,1,4,1,4,0
+COCO_train2014_000000479582.jpg,Is this a dog a lifesaver?,0,5,0,0,0
+COCO_train2014_000000479590.jpg,Is this a medieval town?,0,5,1,0,0
+COCO_train2014_000000479591.jpg,Can I turn left on Beatty Road?,0,5,2,0,0
+COCO_train2014_000000479593.jpg,What city is this?,0,5,0,0,0
+COCO_train2014_000000479620.jpg,Is this person riding with a western saddle?,1,5,0,0,0
+COCO_train2014_000000479687.jpg,Are these young men sitting together?,1,4,1,1,0
+COCO_train2014_000000479697.jpg,Which country's flag is represented by the cycle?,0,5,3,0,0
+COCO_train2014_000000047975.jpg,Has the dog been in the water?,0,5,1,0,0
+COCO_train2014_000000480026.jpg,What letter is on the red flag?,2,5,2,0,0
+COCO_train2014_000000480192.jpg,What is the color of the man's hat?,0,5,5,0,0
+COCO_train2014_000000480196.jpg,Has someone been using a lot of bleach on a wearable?,0,5,2,1,0
+COCO_train2014_000000480415.jpg,Is the plain taking off?,0,4,2,0,1
+COCO_train2014_000000480443.jpg,What time is it?,4,5,0,1,0
+COCO_train2014_000000480482.jpg,What is train hauling?,1,4,1,0,0
+COCO_train2014_000000480661.jpg,How often do people stop here?,0,5,2,0,0
+COCO_train2014_000000480683.jpg,Are the cupboards or the appliances a darker color?,0,5,2,0,0
+COCO_train2014_000000480807.jpg,What is on the seat of the motorcycle?,0,5,3,0,0
+COCO_train2014_000000480807.jpg,Is it sunny?,1,4,3,0,0
+COCO_train2014_000000480812.jpg,What is the man holding?,0,5,3,0,0
+COCO_train2014_000000480991.jpg,What is the duffle bag on top of?,0,5,3,0,0
+COCO_train2014_000000481298.jpg,What remotes are on the table?,1,5,0,1,0
+COCO_train2014_000000481301.jpg,Is that a powerful motor?,2,5,1,1,0
+COCO_train2014_000000481407.jpg,Are all the fruits in a bowl?,0,5,3,0,0
+COCO_train2014_000000481441.jpg,Where is the cat laying?,0,5,2,0,0
+COCO_train2014_000000481723.jpg,How many zebra are standing on their hind legs?,0,4,0,5,0
+COCO_train2014_000000481725.jpg,What size bed is this?,1,5,1,0,0
+COCO_train2014_000000481802.jpg,What brand of hot sauce is pictured here?,0,5,2,0,0
+COCO_train2014_000000481981.jpg,How many sheep are eating?,1,4,1,4,0
+COCO_train2014_000000048204.jpg,How many trees are there?,0,4,1,5,0
+COCO_train2014_000000482084.jpg,Is all the fruit fresh?,1,5,2,0,0
+COCO_train2014_000000048229.jpg,Is this a the ocean?,0,5,2,0,0
+COCO_train2014_000000482300.jpg,Who is the maker of this truck?,4,2,0,0,0
+COCO_train2014_000000482393.jpg,How many types of tile is shown?,0,5,0,5,0
+COCO_train2014_000000482409.jpg,Is this a pier?,0,5,0,0,0
+COCO_train2014_000000482441.jpg,Who is looking back at the camera?,0,5,1,0,0
+COCO_train2014_000000482493.jpg,Is that a large surfboard?,0,5,1,0,0
+COCO_train2014_000000482696.jpg,How many knives are there?,1,4,2,4,0
+COCO_train2014_000000482753.jpg,What is the animal in the picture doing?,0,5,0,0,0
+COCO_train2014_000000482889.jpg,What is the woman holding by her ear?,0,5,0,0,0
+COCO_train2014_000000483323.jpg,How many men are there?,2,5,1,2,0
+COCO_train2014_000000483382.jpg,What type of pizza is in the photo?,1,5,1,0,1
+COCO_train2014_000000483489.jpg,What is the black statue in the background?,0,4,3,0,0
+COCO_train2014_000000483538.jpg,Could Sabin suplex this train?,0,5,1,0,1
+COCO_train2014_000000483630.jpg,Does this man have tennis balls in his shorts?,0,5,1,0,0
+COCO_train2014_000000483757.jpg,What color are the roofs in back?,0,4,4,0,0
+COCO_train2014_000000483766.jpg,Are these neighbors or school friends?,0,5,1,0,0
+COCO_train2014_000000483855.jpg,How many different types of donuts are shown that contain some chocolate?,0,5,2,4,0
+COCO_train2014_000000484044.jpg,Are there children staying in this hotel room?,0,5,1,0,0
+COCO_train2014_000000484064.jpg,What are people doing in the snow?,0,5,1,0,0
+COCO_train2014_000000484113.jpg,What sport is this man playing?,1,5,0,0,0
+COCO_train2014_000000484136.jpg,What is the color of the frisbee in the top middle?,0,5,5,0,0
+COCO_train2014_000000484201.jpg,How many windows are open on both computers?,1,5,0,4,0
+COCO_train2014_000000484201.jpg,What letter is in the upper right corner of the left computer?,2,5,0,0,0
+COCO_train2014_000000484273.jpg,How many people are in the picture?,2,5,0,3,0
+COCO_train2014_000000484281.jpg,Where is the door knob?,0,5,2,0,0
+COCO_train2014_000000484281.jpg,Is someone impressed by this edible object?,0,5,1,0,1
+COCO_train2014_000000484300.jpg,Is the ocean clear?,0,5,4,0,0
+COCO_train2014_000000484353.jpg,What is the red and white vegetable?,0,5,4,0,0
+COCO_train2014_000000484418.jpg,Where is smoke coming from?,0,5,1,0,0
+COCO_train2014_000000048442.jpg,What sport is being played?,1,5,1,0,0
+COCO_train2014_000000484562.jpg,How many people are on the bus?,0,5,0,5,0
+COCO_train2014_000000484562.jpg,How many people are in the photo?,1,4,0,4,0
+COCO_train2014_000000484619.jpg,Could this be a birthday party?,1,4,1,0,1
+COCO_train2014_000000484650.jpg,What color are the columns on the building?,0,3,4,0,0
+COCO_train2014_000000484714.jpg,Are these waves safe for the surfer?,0,4,0,0,0
+COCO_train2014_000000485064.jpg,How big is this truck?,0,4,1,1,1
+COCO_train2014_000000485106.jpg,What are most of the horses doing?,0,5,1,0,1
+COCO_train2014_000000485185.jpg,How valuable is sheep's milk?,0,5,0,0,1
+COCO_train2014_000000485369.jpg,What type of bird is perched on the branch?,0,5,3,0,1
+COCO_train2014_000000485426.jpg,Are there any stuffed animal dogs?,0,4,0,0,0
+COCO_train2014_000000485954.jpg,Are they feeding cake to the horses?,0,5,1,0,0
+COCO_train2014_000000486013.jpg,Who is inside the plane?,0,5,0,0,0
+COCO_train2014_000000486513.jpg,How many vehicles are in the photo?,0,4,1,2,0
+COCO_train2014_000000486545.jpg,What does the man in red have over his face?,0,5,3,0,0
+COCO_train2014_000000486545.jpg,Are all of these people in traditional indigenous dress?,1,5,0,0,0
+COCO_train2014_000000486641.jpg,"Looking closely, how many animal faces are seen in the image?",0,5,1,3,0
+COCO_train2014_000000487182.jpg,Whose name is featured for this egg dish?,2,5,1,0,0
+COCO_train2014_000000487260.jpg,Is the truck pulling something?,0,5,2,1,0
+COCO_train2014_000000487269.jpg,Is the man doing a trick?,1,5,1,0,1
+COCO_train2014_000000487269.jpg,What sport is this person participating in?,0,5,0,0,0
+COCO_train2014_000000487359.jpg,What is this building style called?,0,5,1,0,0
+COCO_train2014_000000487458.jpg,Is he running to hit the ball?,0,5,0,0,0
+COCO_train2014_000000487555.jpg,What kind of vehicle is this?,0,5,0,0,0
+COCO_train2014_000000487854.jpg,What animal is in this picture?,0,5,0,0,0
+COCO_train2014_000000487938.jpg,How many flowers are orange?,0,4,3,3,0
+COCO_train2014_000000487994.jpg,How many men are in this picture?,0,5,2,3,0
+COCO_train2014_000000488260.jpg,How many different colors are on the round item in front of the giraffes?,0,5,4,3,0
+COCO_train2014_000000488390.jpg,What brand of laptop is sitting on the desk?,2,5,0,0,0
+COCO_train2014_000000488422.jpg,Is there a light?,1,5,2,0,0
+COCO_train2014_000000488432.jpg,What year was this taken?,1,3,1,1,3
+COCO_train2014_000000488510.jpg,How many furrows between the skier's feet?,0,5,1,3,0
+COCO_train2014_000000488845.jpg,Does the food look healthy?,0,4,1,0,0
+COCO_train2014_000000489369.jpg,What animal is intermingling with the elephant?,0,5,2,0,0
+COCO_train2014_000000489520.jpg,Are skiers on the lift?,0,5,2,0,0
+COCO_train2014_000000489785.jpg,Are the people watching TV?,1,5,0,0,0
+COCO_train2014_000000489802.jpg,What is the woman holding in her left hand?,2,5,1,0,0
+COCO_train2014_000000490097.jpg,What animal is shown?,0,5,1,0,0
+COCO_train2014_000000490400.jpg,Is there fruit on the table on the left?,0,4,3,1,0
+COCO_train2014_000000490610.jpg,Why does the child have a big hat on?,0,5,1,0,0
+COCO_train2014_000000490870.jpg,What color shirt is the guy to the left wearing?,0,5,5,0,1
+COCO_train2014_000000491177.jpg,Is this person facing the sun?,0,5,2,0,0
+COCO_train2014_000000491302.jpg,What color shoes is the gentlemen wearing in the far left?,1,5,3,0,1
+COCO_train2014_000000491384.jpg,Do you think you could eat all these fruits?,0,5,1,3,1
+COCO_train2014_000000491397.jpg,What is the name of this park?,2,5,2,0,0
+COCO_train2014_000000491857.jpg,What are the purpose of the umbrella's?,1,4,1,0,0
+COCO_train2014_000000491932.jpg,What is the name of the website on the suitcase?,3,5,1,0,0
+COCO_train2014_000000492030.jpg,What is the person doing in the water?,0,5,0,0,0
+COCO_train2014_000000492114.jpg,Why is the man on the right leaning over like that?,0,5,2,0,0
+COCO_train2014_000000492541.jpg,Are there stripes on the planes tail?,1,5,1,0,0
+COCO_train2014_000000492698.jpg,What is behind the dog?,0,5,1,0,0
+COCO_train2014_000000493202.jpg,What room is this person in?,0,5,1,0,0
+COCO_train2014_000000493888.jpg,Are the boys shoes in disrepair?,0,5,1,0,0
+COCO_train2014_000000493994.jpg,What is in the container?,1,5,1,0,0
+COCO_train2014_000000494281.jpg,Is this a Chalice?,0,5,0,0,0
+COCO_train2014_000000494282.jpg,Is there more than one speaker?,0,5,0,2,0
+COCO_train2014_000000494445.jpg,Does the zebra have stripes on his nose?,1,5,2,0,0
+COCO_train2014_000000494504.jpg,What is the color of the carpet?,0,4,5,0,0
+COCO_train2014_000000494780.jpg,What is this building made of?,1,5,1,0,0
